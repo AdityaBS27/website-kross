@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Aditya <br> Data Analyst"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "A website to showcase my work in the field in Data science, Financial Mathematics, Business Intelligence and Mechatronics projects."
   button:
     enable : true
     label : "know more"
@@ -16,20 +16,20 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
-      progress : "90%"
+    - title : "Python"
+      progress : "80%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "R"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "SQL"
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
+    - title : "PowerBI"
+      progress : "60%"
       color : "#ffbcaa"
 
 # experience
@@ -37,45 +37,38 @@ experience:
   enable : true
   title : "Experience"
   item: 
-    - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+    - logo : "images/experience/OPEC.png"
+      title : "Big Data Analyst"
+      company : "OPEC"
+      duration : "Oct 2019 - Aug 2020"
       
-    - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+    - logo : "images/experience/Volvo.jpg"
+      title : "Machine Learning Researcher"
+      company : "Volvo Group AB"
+      duration : "Jan 2019 - Sep 2019"
       
-    - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+    - logo : "images/experience/BEL.jpg"
+      title : "Conusltant"
+      company : "Bhararth Electronics Limited"
+      duration : "Dec 2014 - Dec 2016"
 
 # education
 education:
   enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "M.Sc. in Engineering Mathematics and Compuational Science"
+      year : "2020"
+      academy : "Chalmers university of Technology"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "B.E. in Mechatronics Engineering"
+      year : "2014"
+      academy : "Visvesvaraya Technological University"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
-
+   
 # service
 service:
-  enable : true
+  enable : false
   title : "Services"
   item:
     - title : "UI Design"
@@ -102,7 +95,7 @@ portfolio:
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -122,7 +115,7 @@ testimonial:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"
@@ -156,6 +149,6 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blogs"
   # blog post comes from "content/blog" folder
