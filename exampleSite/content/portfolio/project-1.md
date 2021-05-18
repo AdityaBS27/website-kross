@@ -1,30 +1,28 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-1.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design","development"]
+title: "Text and Sentiment Analysis"
+date: 2020-01-13T12:14:34+06:00
+image: "images/portfolio/OPEC.gif"
+client: "OPEC"
+project_url : "https://github.com/AdityaBS27/NLP"
+categories: ["Data Science"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
+#### Project
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+The projects was in the Big data team at OEPC, where I was to explore various NLP techniques to guide and aid management to make better decisions.
 
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+In this project developed a text and sentiment analysis to  analyse energy market behaviour using online tweets. Initially implemented a Social Network Analysis(SNA) and network visualisation of tweets and retweets to understand the online market  influencers in the energy market.
+
+A dataset with online tweets concerning oil and natural gas markets were extracted, cleaned and assigned sentiments  to train the deep learning models. The data was trained on various deep learning models  such as LSTM, Bi-LSTM, TreeLSTM and Trandformers. The trained model was used to predict daily markets sentiments. These models along with sentiments were explore to forecasts oil prices and oil demand.
+
+
+#### Images
+
+![](/images/portfolio/1_1.png)
+![](/images/portfolio/1_2.png)
+![](/images/portfolio/1_3.png)
