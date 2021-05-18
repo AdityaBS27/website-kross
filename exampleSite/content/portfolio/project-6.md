@@ -1,30 +1,19 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-6.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design"]
+title: "SLAM Robot"
+date: 2014-06-24T12:14:34+06:00
+image: "images/portfolio/SLAM.gif"
+#client: "John Doe"
+#project_url : "https://themefisher.com/"
+categories: ["Mechatronics"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
+#### Project
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+A autonomous robot that could traverse in harsh and unknown terrain without any maps
 
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Simultaneous Localization And Mapping (SLAM) allows a mobile robot to be completely move autonomously in an unknown environment and perform its tasks. The robot build up a map within an unknown environment at the same time keeping track of the current location and understanding of the environment with the help of sensory information. The robot is able to create a map of its environment and at the same time locate itself.  The Robot uses various sensors to measure the physical parameters in the environment. These measurements are fed to computer on a real time basis using Zigbee. The software in computer, using the data send by the robot maps the environment.
