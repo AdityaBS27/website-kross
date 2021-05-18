@@ -21,6 +21,6 @@ A data set containing 1000+ parts along with its machining requirement, machine 
 
 #### Images
 
-![Feature Selection](/images/portfolio/4_1.png)
-![Feature Selection](/images/portfolio/4_2.png)
-![Feature Selection](/images/portfolio/4_3.png)
+![](/images/portfolio/4_1.png)
+![](/images/portfolio/4_2.png)
+![](/images/portfolio/4_3.png)
