@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "A website to showcase my work in the field in Data science, Financial Mathematics, Business Intelligence and Mechatronics"
+  content : "A website to showcase my work in field of Data science, Financial Mathematics, Business Intelligence and Mechatronics"
   button:
     enable : true
     label : "know more"
