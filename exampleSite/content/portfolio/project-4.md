@@ -1,30 +1,26 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-5.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design"]
+title: "Cost Estimation of machining parts using Machine Learning"
+date: 2019-11-05T12:14:34+06:00
+image: "images/portfolio/Cost.jpg"
+#client: "John Doe"
+#project_url : "https://themefisher.com/"
+categories: ["Data Science"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
+#### Project
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
+The project was to explore various machine learning techniques to estimate manufacturing cost of aircraft parts
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+
+A data set containing 1000+ parts along with its machining requirement, machine time, labor cost and the material cost was provided. The challenge was to build a machine learning model to predict each cost (labour, machining and material cost). The major part of the time was utilized for preprocessing the data to train the model. I chose two models to preprocess and build a regression model for prediction. The pre-processing involved feature reduction and feature selection to reduce  28+ variables for prediction.The regression model built using filter and wrapper methods. and the  R^2 of both models could explain about 95 % of the variation.
+
+
+#### Images
+
+![Feature Selection](/images/portfolio/4_1.png)
+![Feature Selection](/images/portfolio/4_2.png)
+![Feature Selection](/images/portfolio/4_3.png)
