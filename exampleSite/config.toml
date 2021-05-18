@@ -20,18 +20,18 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = "Lange Hilleweg 422, 3073 BZ Rotterdam, Netherlands"
+author = "Aditya Sridhara"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "adityabs93@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "+46 704658729"
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [params.cookies]
 enable = true
@@ -39,8 +39,8 @@ expire_days = 2
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "51.88992"
+map_longitude = "4.49673"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -62,14 +62,12 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/aditya.sridhara.94/"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
+URL = "https://www.linkedin.com/in/aditya-b-s-ab4a945a/"
+icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
+URL = "https://github.com/AdityaBS27"
+icon = "ti-github"
+
