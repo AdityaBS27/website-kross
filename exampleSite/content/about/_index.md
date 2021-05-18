@@ -10,4 +10,4 @@ a degree in Mechatronics Engineering. I enjoyed building and working on robots, 
 
  I have traveled across many countries in lived in four.  I am an affable person who likes to explore cultures and countries. In my free time, I enjoy playing badminton, traveling with friends, and reading. I eager and delighted to research and explore modern technologies to stay abreast with current times. I relish challenges where I can explore and expand my knowledge boundaries.
 
-I have about 3.5 years of industry experience working across various industries. I am interested in working in the field of Data Science (Deep learning, Data engineering, and Business Intelligence)  and Quantitative researches as an analytical consultant in aiding clients across Europe in the development and deployment of their analytical projects. 
+I have about 3.5 years of industry experience working across various industries. I am interested in working in the field of Data Science (Deep learning, Data engineering, and Business Intelligence)  and Quantitative researches as an analytical consultant in aiding clients across Europe in developing and deploying of their analytical projects. 
