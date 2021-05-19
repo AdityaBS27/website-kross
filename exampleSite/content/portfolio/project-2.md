@@ -11,13 +11,13 @@ draft: false
 
 #### Project
 
-The goal of the project is to achieve a suitable prediction model of driver’s intention,
+The goal of the project was to achieve a suitable prediction model of driver’s intention,
 in case of lane change scenarios to help in improving ADAS systems. The prediction
 models must be robust to predict varied situations
 
 #### Project Details
 
-The project aims to build a Deep Inverse Reinforcement
+The project aimed to build a Deep Inverse Reinforcement
 Learning (DIRL) model to analyze and learn diverse driving behaviour during lane
 change scenarios. DIRL learns this behaviour by undergoing apprenticeship training
 from an expert. It learns the reward structure of drivers decision during lane change
