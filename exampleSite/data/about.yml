@@ -34,8 +34,4 @@ team:
       designation : "Designer"
 
 
-# client logo slider
-clients_logo_slider:
-  enable : false
-  title : "My Clients"
-  # clients logo comes from 'data/homepage.yml' file
+
