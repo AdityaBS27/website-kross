@@ -37,7 +37,7 @@ experience:
   enable : true
   title : "Experience"
   item: 
-    - logo : "images/experience/BEL.jpg"
+    - logo : "images/experience/freelance.jpg
       title : "Freelance Data Science Consultant"
       company : "Self-Employed"
       duration : "Sep 2020 - Present"
