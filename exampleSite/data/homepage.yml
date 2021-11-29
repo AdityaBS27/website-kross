@@ -37,6 +37,11 @@ experience:
   enable : true
   title : "Experience"
   item: 
+     - logo : "images/experience/BEL.jpg"
+      title : "Freelance Data Science Consultant"
+      company : "Self-Employed"
+      duration : "Sep 2020 - Present"
+
     - logo : "images/experience/OPEC.png"
       title : "Big Data Analyst"
       company : "OPEC"
@@ -48,7 +53,7 @@ experience:
       duration : "Jan 2019 - Sep 2019"
       
     - logo : "images/experience/BEL.jpg"
-      title : "Conusltant"
+      title : "Consultant"
       company : "Bhararth Electronics Limited"
       duration : "Dec 2014 - Dec 2016"
 
