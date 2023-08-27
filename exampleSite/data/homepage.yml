@@ -32,15 +32,24 @@ skill:
       progress : "60%"
       color : "#ffbcaa"
 
+    - title : "Spark"
+      progress : "70%"
+      color : "#c5684b"
+
 # experience
 experience:
   enable : true
   title : "Experience"
   item: 
+    - logo : "images/experience/volvoc.png"
+      title : "Analytics Consultant"
+      company : "Volvo Cars"
+      duration : "Feb 2022 - present"
+      
     - logo : "images/experience/self.png"
       title : "Freelance Data Science Consultant"
       company : "Self-Employed"
-      duration : "Sep 2020 - Present"
+      duration : "Sep 2020 - Dec 2021"
 
     - logo : "images/experience/OPEC.png"
       title : "Big Data Analyst"
