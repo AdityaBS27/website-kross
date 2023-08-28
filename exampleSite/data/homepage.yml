@@ -41,7 +41,7 @@ experience:
   enable : true
   title : "Experience"
   item: 
-    - logo : "images/experience/volvoc.png"
+    - logo : "images/experience/vol.png"
       title : "Analytics Consultant"
       company : "Volvo Cars"
       duration : "Feb 2022 - present"
