@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "Lange Hilleweg 422, 3073 BZ Rotterdam, Netherlands"
+address = "Gothenburg, Sweden"
 author = "Aditya Sridhara"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
